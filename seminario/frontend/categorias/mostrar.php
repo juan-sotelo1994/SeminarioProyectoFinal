@@ -106,9 +106,9 @@
                         </a>
                     </li>
                     <li>
-                       <a href="../empleados/mostrar.php">
+                       <a href="../clientes/mostrar.php">
                             <span class="las la-user-friends"></span>
-                            <small>Empleados</small>
+                            <small>Clientes</small>
                         </a>
                     </li>
                     <li>
